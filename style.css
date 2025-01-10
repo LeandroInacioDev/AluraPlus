@@ -155,7 +155,7 @@ body {
 }
 
 .lista__link:active {
-    color: red;
+    color: var(--botao-azul);
 }
 
 /*.lista__link:visited {
